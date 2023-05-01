@@ -9,4 +9,4 @@
    url = git@github.com:dwbolt/synergyData.git
 [submodule "synergyServer"]
 	path = synergyServer
-	url = git@github.com:dwbolt/synergyServer.git
+	url = https://github.com/dwbolt/synergyServer.git
