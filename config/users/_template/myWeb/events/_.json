@@ -1,0 +1,21 @@
+{
+"headTitle":"Calendar"
+,"heading1": "Calendar"
+,"updated": "2022-05-07"
+
+,"lists": {
+ "rows":["event"]
+}
+
+,"node": {
+
+
+"event":{
+  "text":[
+    ["eval","","app.calendar.main('main')"]
+  ]
+}
+
+
+
+}}
