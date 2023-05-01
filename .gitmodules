@@ -6,4 +6,7 @@
    url = git@github.com:dwbolt/synergy.git
 [submodule "synergyData"]
    path = synergyData
-   url = git@github.com:dwbolt/synergyData.git 
+   url = git@github.com:dwbolt/synergyData.git
+[submodule "synergyServer"]
+	path = synergyServer
+	url = git@github.com:dwbolt/synergyServer.git
