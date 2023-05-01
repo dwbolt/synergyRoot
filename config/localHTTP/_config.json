@@ -1,0 +1,15 @@
+{
+ "protocol" : "HTTP"
+,"port": 80
+
+,"hosts" : {
+    "127.0.0.1"                 :  "synergy.sfcknox.org"
+    ,"synergyalpha.sfcknox.org" :  "synergy.sfcknox.org"
+}
+
+,"localConfig"   : "/Users/davidbolt/4_synergyLocalConfig/config.json"
+,"logDir"        : "/Users/davidbolt/Desktop/6-ToDo-SFC/synergy/4-LocalShares/logsHTTP"
+,"usersDir"      : "/Users/davidbolt/Desktop/6-ToDo-SFC/synergy/4-LocalShares/config/users"
+,"maxSessionAge" : {"minutes": 60, "seconds": 10}
+,"CacheControl"  : "max-age=0"
+}
