@@ -6,14 +6,30 @@ cd ../
 git submodule update --init --recursive
 
 echo move to each repositor and checkout main
+echo lib - lib used in other websites
 cd _lib
+pwd
 git checkout main
+echo 
 
+echo synergy - web pages
 cd ../synergy
+pwd
 git checkout main
+echo 
 
+echo synergyData - data to render pages
 cd ../synergyData
+pwd
 git checkout main
+echo 
 
+echo synergyServer - web server
 cd ../synergyServer
+pwd
 git checkout main
+echo 
+
+echo
+echo all done
+echo
