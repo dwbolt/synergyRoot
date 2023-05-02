@@ -1,0 +1,19 @@
+#!/bin/bash
+echo
+echo move to synergyRoot directory and init repostoris
+cd "${0%/*}"
+cd ../
+git submodule update --init --recursive
+
+echo move to each repositor and checkout main
+cd _lib
+git checkout main
+
+cd ../synergy
+git checkout main
+
+cd ../synergyData
+git checkout main
+
+cd ../synergyServer
+git checkout main
