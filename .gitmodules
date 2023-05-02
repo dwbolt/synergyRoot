@@ -1,12 +1,12 @@
 [submodule "_lib"]
    path = _lib
-   url = git@github.com:dwbolt/_lib.git
+   url  = https://github.com/dwbolt/_lib.git
 [submodule "synergy"]
    path = synergy
-   url = git@github.com:dwbolt/synergy.git
+   url  = https://github.com/dwbolt/synergy.git
 [submodule "synergyData"]
    path = synergyData
-   url = git@github.com:dwbolt/synergyData.git
+   url = https://github.com/dwbolt/synergyData.git
 [submodule "synergyServer"]
 	path = synergyServer
-	url = git@github.com:dwbolt/synergyServer.git
+	url = https://github.com/dwbolt/synergyServer.git
