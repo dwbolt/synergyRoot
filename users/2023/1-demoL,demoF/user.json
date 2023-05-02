@@ -1,0 +1,13 @@
+
+    {
+       "user"      : "demo"
+      ,"nameFirst" : "demoF"
+      ,"nameLast"  : "demoL"
+      ,"pwdDigest" : "KpdRbDVLaISM29j1SiJqClWyHtE44getbFy7nACqWuo="
+      ,"phone"     : ""
+      ,"email"     : ""
+
+      ,"publicDirectorys": {
+        "public":"public"
+        }
+    }

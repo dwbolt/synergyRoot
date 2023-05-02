@@ -1,0 +1,29 @@
+{
+"headTitle":"Steltenkamp | SFCKnox"
+,"heading1": "will be replaced"
+,"updated": "2022-09-15"
+
+,"buttons":[
+    {"button":"Calendar"    ,"id":"calendar" ,"onclick":"app.display(this)"}
+]
+
+,"lists": {
+  "calendar": ["weeks"]
+}
+
+,"node": {
+
+"weeks":{
+ "text":[
+      ["","","<p id='weeks' class='calendar'>replace with calendar</p>"]
+      ,["eval","","app.calendar.main('weeks')"]
+      ,["eval","","app.login.displayUser('heading1')"]
+ ]
+
+ ,"u_pictures": []
+ ,"u_urls": []
+}
+
+
+
+}}
