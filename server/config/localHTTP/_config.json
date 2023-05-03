@@ -13,6 +13,6 @@
 
 ,"localConfig"   : ""
 ,"logDir"        : "logs/HTTP"
-,"usersDir"      : "config/users"
+,"usersDir"      : "server/config/users"
 
 }
