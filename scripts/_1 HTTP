@@ -2,6 +2,5 @@
 
 cd "${0%/*}"
 cd ..
-node synergyServer/server.js -config config/localHTTP/_config.json
-
+node server/synergyServer/server.js -config server/config/localHTTP/_config.json
 # pm2 start serverHTTPS.js -- -config /home/dwbolt/server/config/HTTPS/_config.json

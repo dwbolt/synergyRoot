@@ -5,6 +5,7 @@
 ,"hosts" : {
     "127.0.0.1"                 :  "synergy.sfcknox.org"
     ,"synergyalpha.sfcknox.org" :  "synergy.sfcknox.org"
+    ,"synergyalpha.sfcknox.org" :  "/Users/davidbolt/Desktop/6-ToDo-SFC/synergy/4-LocalShares/config/localHTTP/synergy.sfcknox.org"
 }
 
 ,"maxSessionAge" : {"minutes": 60, "seconds": 10}

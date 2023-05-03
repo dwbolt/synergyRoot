@@ -8,5 +8,5 @@ echo
 
 cd "${0%/*}"
 cd ..
-node --inspect-brk synergyServer/server.js -config config/localHTTP/_config.json
+node --inspect-brk server/synergyServer/server.js -config server/config/localHTTP/_config.json
 # pm2 start serverHTTPS.js -- -config /home/dwbolt/server/config/HTTPS/_config.json
