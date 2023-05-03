@@ -1,12 +1,12 @@
-[submodule "_lib"]
-   path = synergy.sfcknox.org/_lib
-   url  = https://github.com/dwbolt/_lib.git
-[submodule "synergy"]
-   path = synergy.sfcknox.org/synergy
-   url  = https://github.com/dwbolt/synergy.git
-[submodule "synergyData"]
-   path = synergy.sfcknox.org/synergyData
-   url = https://github.com/dwbolt/synergyData.git
-[submodule "synergyServer"]
+[submodule "synergy.sfcknox.org/_lib"]
+	path = synergy.sfcknox.org/_lib
+	url = https://github.com/dwbolt/_lib.git
+[submodule "synergy.sfcknox.org/synergy"]
+	path = synergy.sfcknox.org/synergy
+	url = https://github.com/dwbolt/synergy.git
+[submodule "synergy.sfcknox.org/synergyData"]
+	path = synergy.sfcknox.org/synergyData
+	url = https://github.com/dwbolt/synergyData.git
+[submodule "server/synergyServer"]
 	path = server/synergyServer
 	url = https://github.com/dwbolt/synergyServer.git
