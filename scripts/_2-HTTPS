@@ -1,8 +1,0 @@
-#!/bin/bash
-
-cd /Users/davidbolt/1-topics/S/synergy/2-git/1-server
-node server.js \
--config /Users/davidbolt/Desktop/6-ToDo-SFC/synergy/4-LocalShares/config/HTTPS/_config.json
-
-# node      server.js    -config /home/dwbolt/server/config/HTTPS/_config.json
-# pm2 start server.js -- -config /home/dwbolt/server/config/HTTPS/_config.json
