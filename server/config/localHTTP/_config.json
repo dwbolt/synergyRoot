@@ -11,7 +11,7 @@
 ,"CacheControl"  : "max-age=0"
 
 ,"localConfig"   : ""
-,"logDir"        : "logs/HTTP"
+,"logDir"        : "server/logs/HTTP"
 ,"usersDir"      : "server/config/users"
 
 }

@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cd "${0%/*}/.."
-node server/synergyServer/server.js -config servert/config/localHTTP/_config.json
-
-# pm2 start serverHTTPS.js -- -config /home/dwbolt/server/config/HTTPS/_config.json
